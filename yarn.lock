@@ -2472,7 +2472,7 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.36.0.tgz#9837f768c03a1e4a30bd304a64fb8844f0e72efe"
   integrity sha512-lxJ9R5ygVm8ZWgYdUweoq5ownDlJ4upvoWmO4eLxBYHdMo+vZ/Rx0EN6MbKWDJOSUGrqJy2Gt+Dyv/VKml0fjg==
 
-"@expo/config-plugins@^4.0.16", "@expo/config-plugins@^4.1.5":
+"@expo/config-plugins@^4.0.16":
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-4.1.5.tgz#9d357d2cda9c095e511b51583ede8a3b76174068"
   integrity sha512-RVvU40RtZt12HavuDAe+LDIq9lHj7sheOfMEHdmpJ/uTA8pgvkbc56XF6JHQD+yRr6+uhhb+JnAasGq49dsQbw==
@@ -3727,13 +3727,12 @@
   resolved "https://registry.yarnpkg.com/@react-native-community/clipboard/-/clipboard-1.5.1.tgz#32abb3ea2eb91ee3f9c5fb1d32d5783253c9fabe"
   integrity sha512-AHAmrkLEH5UtPaDiRqoULERHh3oNv7Dgs0bTC0hO5Z2GdNokAMPT5w8ci8aMcRemcwbtdHjxChgtjbeA38GBdA==
 
-"@react-native-firebase/app@^14.11.1":
-  version "14.11.1"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-14.11.1.tgz#5d3587bda0a8877863e59384a4d38f7ebc321835"
-  integrity sha512-fkvOK8c7e8MxIbfb2076kO3GtGUc3ZXNEkPyfamRKBnPgANpmnjQaTVIraXpeuIIOfjj5uDK4uw32znWiDusGA==
+"@react-native-firebase/app@^18.7.3":
+  version "18.7.3"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/app/-/app-18.7.3.tgz#e2d7d41b8df6173d270116762638f7e75cca76fe"
+  integrity sha512-KlUuLSCYrBMHXE2Evye1fzrqunUjFEPihxcpzuUyJ5yQyAuCNws7VGdEPIaXoKz1esof0uv8wMSxD+G6W+Vi8Q==
   dependencies:
-    "@expo/config-plugins" "^4.1.5"
-    opencollective-postinstall "^2.0.1"
+    opencollective-postinstall "^2.0.3"
     superstruct "^0.6.2"
 
 "@react-native-firebase/messaging@^14.11.1":
@@ -11029,7 +11028,7 @@ open@^8.4.0:
     is-docker "^2.1.1"
     is-wsl "^2.2.0"
 
-opencollective-postinstall@^2.0.1:
+opencollective-postinstall@^2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/opencollective-postinstall/-/opencollective-postinstall-2.0.3.tgz#7a0fff978f6dbfa4d006238fbac98ed4198c3259"
   integrity sha512-8AV/sCtuzUeTo8gQK5qDZzARrulB3egtLzFgteqB2tcT4Mw7B8Kt7JcDHmltjz6FOAHsvTevk70gZEbhM4ZS9Q==
