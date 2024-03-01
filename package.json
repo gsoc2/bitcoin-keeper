@@ -78,7 +78,7 @@
     "react-native-get-random-values": "^1.7.2",
     "react-native-hce": "^0.2.0",
     "react-native-html-to-pdf": "^0.12.0",
-    "react-native-iap": "12.10.5",
+    "react-native-iap": "12.13.0",
     "react-native-image-picker": "^4.10.3",
     "react-native-keychain": "^8.1.2",
     "react-native-localize": "^2.2.1",
